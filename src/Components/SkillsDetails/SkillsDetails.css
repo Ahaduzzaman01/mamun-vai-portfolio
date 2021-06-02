@@ -1,0 +1,23 @@
+.skill-logo{
+    height: 90px;
+}
+
+.skill-name{
+    border-bottom: 2px solid #c5c5c5;
+}
+
+.skills-container {
+    border-radius: 15px;
+}
+
+.skill-item-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+@media only screen and (max-width: 992px) {
+    .skill-item{
+        margin: 0px 20px !important;
+    }  
+}

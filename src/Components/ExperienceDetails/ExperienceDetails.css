@@ -1,0 +1,22 @@
+.experience-card {
+    width: 80%;
+    margin: auto;
+}
+
+.experience-card p, li{
+    font-size: 19px;
+}
+
+.top-part {
+    border-bottom: 1px solid #e2e2e2;
+}
+
+.img-box img{
+    height: 60px;
+}
+
+@media only screen and (max-width: 576px) {
+    .img-box img {
+        height: 30px;
+    } 
+}

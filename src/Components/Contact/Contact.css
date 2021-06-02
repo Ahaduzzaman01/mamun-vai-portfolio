@@ -1,0 +1,13 @@
+.contact-logos img{
+    width: 50px;
+}
+
+@media only screen and (max-width: 576px) {
+    .contact-logos img {
+        width: 40px;
+    }
+
+    .contact-link {
+        font-size: 16px;
+    } 
+}

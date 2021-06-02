@@ -1,0 +1,18 @@
+.education-details {
+    width: 45%;
+    border-radius: 15px 0px 15px 0px;
+}
+
+#location, #degree {
+    font-size: 19px !important;
+}
+
+.institute-part{
+    border-bottom: 1px dotted black;
+}
+
+@media only screen and (max-width: 768px) {
+    .education-details {
+        width: 100%;
+    }    
+}

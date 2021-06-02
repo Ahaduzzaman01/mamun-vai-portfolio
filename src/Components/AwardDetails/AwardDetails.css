@@ -1,0 +1,18 @@
+.award-details {
+    width: 45%;
+    border-radius: 15px;
+}
+
+#award-from, #award-detail {
+    font-size: 19px !important;
+}
+
+.award-header-part{
+    border-bottom: 1px dotted black;
+}
+
+@media only screen and (max-width: 768px) {
+    .award-details {
+        width: 100%;
+    }    
+}

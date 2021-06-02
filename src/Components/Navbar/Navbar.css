@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+.custom-nav-bg {
+    background: linear-gradient(to right, #eb3349, #f45c43);
+    z-index: 100;
+}
+
+.logo-text{
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;
+}
+
+.navbar-link-style{
+    cursor: pointer;
+}
+
+.resume-btn {
+    background: #6b6b6b;
+    color: white;
+    border: none;
+    outline: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+    text-decoration: none;
+    transition: 0.5s;
+    vertical-align: middle;
+}
+
+.resume-btn:hover {
+    background: #fff;
+    color: #F45B44;
+}
